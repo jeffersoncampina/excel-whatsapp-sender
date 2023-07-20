@@ -3,4 +3,4 @@ xPathNoContactFound://*[@id='pane-side']/div[1]/div/span|
 xPathInvalidPhoneNumber://*[@id='app']/div/span[2]/div/span/div/div/div/div/div/div[2]/div/div/div|
 AttachmentButton://span[@data-icon='attach-menu-plus']|
 AttachmentImage://span[@data-icon='attach-image']|
-AttachmentDocument://*[@id="main"]/footer/div[1]/div/span[2]/div/div[1]/div/div/span/div/ul/div/div[4]/li/div|
+AttachmentDocument://[@class='erpdyial tviruh8d gfz4du6o r7fjleex lhj4utae le5p0ye3']|
